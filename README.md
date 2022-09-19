@@ -1,8 +1,8 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi I'm Ali Chrief</h1>
 <h3 align="center">A passionate Full-Stack developer from Lebanon</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpKBr_lTeaXEevCguJ3bgfd2TiYdI4QZhpIA&usqp=CAU)">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ7C6-dVroVYwKXlJSnBBFZDgac8EQ5NRzEg&usqp=CAU">
 
 - 🌱 I’m currently learning **Programming Language**
 
